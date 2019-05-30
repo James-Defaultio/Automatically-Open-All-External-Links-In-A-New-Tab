@@ -12,6 +12,8 @@ Automating this will save you so much time as you will not have to do this manua
 
 To use, simply copy the code below and add it to your head element.
 
-`<script src="https://github.com/dacodmagagula/auto_target_blank/blob/master/auto_target_blank.js"></script>`
+`https://raw.githubusercontent.com/dacodmagagula/auto_target_blank/master/auto_target_blank.js`
+
+You can also download the file and use it locally.
 
 Happy coding!!!
